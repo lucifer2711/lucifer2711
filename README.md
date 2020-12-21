@@ -7,10 +7,10 @@
 
 ## I'm a Student and a Front-End Developer and a Machine Learning Programmer and working on becoming data analyst!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning php
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw
+- ⚡ Fun fact: I love to play badminton
 
 <br />
 <br />
