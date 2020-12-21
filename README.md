@@ -21,8 +21,8 @@
 [<img align="left" alt="Profile | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AmanKum70753619)
 
 [<img align="left" alt="Profile | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />](https://www.quora.com/profile/Aman-Singh-4270)
-[<img align="left" alt="Profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aman-kumar-766890180/)
-[<img align="left" alt="Profile | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/it.s_me_bunny/)
+[<img align="left" alt="Profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/someshwar-singh-b56240183/)
+[<img align="left" alt="Profile | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/someshwar_singh01/)
 
 <br />
 <br />
